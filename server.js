@@ -7,18 +7,18 @@ app.get("/api/customers", (req, res) => {
   const customers = [
     {
       id: 1,
-      firstname: "josh",
-      lastname: "dinh",
+      firstname: "Josh",
+      lastname: "Dinh",
     },
     {
       id: 2,
-      firstname: "yui",
-      lastname: "akiyama",
+      firstname: "Jane",
+      lastname: "Doe",
     },
     {
       id: 3,
-      firstname: "audrey",
-      lastname: "davenport",
+      firstname: "John",
+      lastname: "Doe",
     },
   ];
 
